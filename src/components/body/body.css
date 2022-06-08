@@ -1,0 +1,22 @@
+.about-intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.center {
+    text-align: center;
+    border: 3px solid green;
+}
+.big-text{
+    /* display: flex; */
+    font-weight: 900;
+    font-size: 50px;
+}
+.small-text{
+    padding-top: 1.2em;
+    /* display: flex; */
+    font-weight: 500;
+    font-size: 30px;
+}

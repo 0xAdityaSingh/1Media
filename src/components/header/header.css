@@ -1,0 +1,14 @@
+.appname{
+    font-size: 1.5em;
+    font-weight: bold;
+    flex-grow: 1;
+    color: black;
+}
+
+.buttontxt{
+    font-size: 1.5em;
+    /* font-weight: bold; */
+    flex-grow: 1;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
